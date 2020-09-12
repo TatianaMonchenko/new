@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\obj\Debug\AdoNet.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
