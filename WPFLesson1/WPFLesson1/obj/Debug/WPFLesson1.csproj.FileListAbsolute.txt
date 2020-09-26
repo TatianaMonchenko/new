@@ -1,0 +1,15 @@
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\App.g.cs
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1_MarkupCompile.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\bin\Debug\WPFLesson1.exe.config
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\bin\Debug\WPFLesson1.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\bin\Debug\WPFLesson1.pdb
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\MainWindow.g.cs
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1_MarkupCompile.lref
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\MainWindow.baml
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.g.resources
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WPFLesson1\WPFLesson1\obj\Debug\WPFLesson1.pdb
