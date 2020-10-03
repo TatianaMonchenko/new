@@ -7,8 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <StackPanel Orientation="Horizontal">
-        <Label>Message:</Label>      
+    <StackPanel Orientation="Vertical">
+        <Label>Message:</Label>
         <TextBox Width="100"/>
+        <Button x:Name="submitButton" FontFamily="Consolas"
+FontSize="20" Foreground="Green">
+            Submit
+        </Button>
+        <Button Content="Button"/>
     </StackPanel>
+
 </Window>
