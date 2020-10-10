@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model2" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model2Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FilmsSet" EntityType="Model2.Films" />
+    <EntitySet Name="FilmsProducerSet" EntityType="Model2.FilmsProducer" />
+    <AssociationSet Name="FilmsFilmsProducer" Association="Model2.FilmsFilmsProducer">
+      <End Role="Films" EntitySet="FilmsSet" />
+      <End Role="FilmsProducer" EntitySet="FilmsProducerSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Films">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameFilm" Type="String" Nullable="false" />
+    <Property Name="Genre" Type="String" Nullable="false" />
+    <Property Name="Duration" Type="Int32" Nullable="false" />
+    <Property Name="ProducerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Producer" />
+    <NavigationProperty Name="FilmsProducer" Relationship="Model2.FilmsFilmsProducer" FromRole="Films" ToRole="FilmsProducer" />
+  </EntityType>
+  <EntityType Name="FilmsProducer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" />
+    <Property Name="LastName" Type="String" Nullable="false" />
+    <Property Name="Birthday" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Films" />
+    <NavigationProperty Name="Films1" Relationship="Model2.FilmsFilmsProducer" FromRole="FilmsProducer" ToRole="Films" />
+  </EntityType>
+  <Association Name="FilmsFilmsProducer">
+    <End Type="Model2.Films" Role="Films" Multiplicity="1" />
+    <End Type="Model2.FilmsProducer" Role="FilmsProducer" Multiplicity="*" />
+  </Association>
+</Schema>

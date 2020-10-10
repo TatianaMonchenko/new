@@ -1,0 +1,12 @@
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\obj\Debug\LibraryCodeFirst.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\obj\Debug\LibraryCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\LibraryCodeFirst.exe.config
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\LibraryCodeFirst.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\LibraryCodeFirst.pdb
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\obj\Debug\LibraryCodeFirst.csproj.CopyComplete
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\obj\Debug\LibraryCodeFirst.exe
+C:\Users\Взрослая академия\source\repos\new\AdoNet\mon\WindowsFormsApp2\LibraryCodeFirst\obj\Debug\LibraryCodeFirst.pdb
